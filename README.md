@@ -1,1 +1,1 @@
-# badger-mart-react-native
+# shopping-mart-react-native
